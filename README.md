@@ -1,2 +1,2 @@
 # SO
-Repositório da cadeira de sistemas operativos.
+Repositório voltado aos estudos de sistemas operativos.
